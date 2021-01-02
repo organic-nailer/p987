@@ -1,0 +1,23 @@
+{
+    "name": "p987",
+    "short_name": "p987",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#2E7D32",
+    "theme_color": "#2E7D32",
+    "description": "2048*0.987",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
